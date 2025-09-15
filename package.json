@@ -21,7 +21,7 @@
     "bootstrap": "^3.3.4",
     "clear-cut": "^2.0.1",
     "coffee-cash": "0.8.0",
-    "coffee-script": "1.8.0",
+    "coffee-script": "1.12.7",
     "coffeestack": "^1.1.2",
     "color": "^0.7.3",
     "delegato": "^1",
